@@ -71,7 +71,7 @@ module.exports = {
   prefa: process.env.Prefix || ['-'],
   themeemoji: process.env.ThemeEmoji || "🎐",
   ownername: process.env.Owner_Name || "Akila kalum",
-  ownernumber: process.env.Owner_Number || "94742749416",
+  ownernumber: process.env.Owner_Number || "94742310057",
   instagramId: process.env.Insta || "8.08_only_mine",
   warns: process.env.Warns_Limits || 3,
   mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
@@ -79,7 +79,7 @@ module.exports = {
   left: process.env.Left_Msg || 'Ex-member *@$user* is no longer available in this group chat.\n\n_$prefix goodbye off to disable this message._',
   promote: process.env.Promote_Msg || '*@$user* has been promoted as an admin in this group.\n\n_$prefix promotem off to disable this message._',
   demote: process.env.Demote_Msg || '*@$user* has been demoted to a member in this group.\n\n_$prefix demotem off to disable this message._',
-  sessionId: process.env.SESSION_ID || "YkhBWld_Queen-Anya_Scno=", 
+  sessionId: process.env.SESSION_ID || "THJlaV_Queen-Anya_V_Queen-Anya_WYXA=", 
   image_1: readFileSync('./lib/Assets/image_1.jpg'), // Thumbnail for allmenu command
   image_2: readFileSync('./lib/Assets/image_2.jpg'), // null image
   image_3: readFileSync("./lib/Assets/image_3.jpg"), // Thumbnail for Dashboard
@@ -113,7 +113,7 @@ global.footer = process.env.Footer || "© Akila kalum"
 global.prefa = process.env.Prefix || ['-'] 
 global.themeemoji = process.env.ThemeEmoji || "🎐" 
 global.ownername = process.env.Owner_Name || "Akila kalum" 
-global.ownernumber = process.env.Owner_Number || "94742749416" 
+global.ownernumber = process.env.Owner_Number || "94742310057" 
 global.adress = process.env.Continent || "Asia, srilanka, mathale" 
 global.timezone = process.env.TimeZone || "Asia/colombo" 
 global.instagramId = process.env.Insta || "8.08_only_mine" 
